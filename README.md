@@ -577,10 +577,11 @@ readme:
 
 
 
+
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HudsonSMadeira/HudsonSMadeira/output/pacman-contribution-graph-dark.svg?t=1764311741">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HudsonSMadeira/HudsonSMadeira/output/pacman-contribution-graph.svg?t=1764311741">
-  <img src="https://raw.githubusercontent.com/HudsonSMadeira/HudsonSMadeira/output/pacman-contribution-graph.svg?t=1764311741" alt="Pacman eating contributions" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HudsonSMadeira/HudsonSMadeira/output/pacman-contribution-graph-dark.svg?t=1764334078">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HudsonSMadeira/HudsonSMadeira/output/pacman-contribution-graph.svg?t=1764334078">
+  <img src="https://raw.githubusercontent.com/HudsonSMadeira/HudsonSMadeira/output/pacman-contribution-graph.svg?t=1764334078" alt="Pacman eating contributions" width="100%">
 </picture>
 </div>
