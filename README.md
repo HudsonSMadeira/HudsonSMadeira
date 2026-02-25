@@ -929,10 +929,11 @@ readme:
 
 
 
+
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HudsonSMadeira/HudsonSMadeira/output/pacman-contribution-graph-dark.svg?t=1771960019">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HudsonSMadeira/HudsonSMadeira/output/pacman-contribution-graph.svg?t=1771960019">
-  <img src="https://raw.githubusercontent.com/HudsonSMadeira/HudsonSMadeira/output/pacman-contribution-graph.svg?t=1771960019" alt="Pacman eating contributions" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HudsonSMadeira/HudsonSMadeira/output/pacman-contribution-graph-dark.svg?t=1771986696">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HudsonSMadeira/HudsonSMadeira/output/pacman-contribution-graph.svg?t=1771986696">
+  <img src="https://raw.githubusercontent.com/HudsonSMadeira/HudsonSMadeira/output/pacman-contribution-graph.svg?t=1771986696" alt="Pacman eating contributions" width="100%">
 </picture>
 </div>
