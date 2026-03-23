@@ -1,7 +1,8 @@
 
 readme:
 
-<h2 align="left">Olá 👋! Meu nome é Hudson... E eu sou um..., Analista e  Desenvolvedorde Sistema....</h2>
+<h2 align="left">Olá 👋! 
+  Meu nome é Hudson... E eu sou um Analista e Desenvolvedor de Sistema.</h2>
 
 
 ###
