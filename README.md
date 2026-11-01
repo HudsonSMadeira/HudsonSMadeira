@@ -77,8 +77,8 @@ Web-Conselho-de-classe — protótipo web.
 📊 Atividade no GitHub
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HudsonSMadeira&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub de Hudson Madeira" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HudsonSMadeira&layout=compact&hide_border=true&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas nos repositórios públicos" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HudsonSMadeira&theme=tokyonight" alt="Estatísticas do GitHub de Hudson Madeira" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HudsonSMadeira&theme=tokyonight" alt="Distribuição de linguagens nos repositórios públicos" />
 </div> <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HudsonSMadeira&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
 </div>
@@ -87,9 +87,9 @@ Web-Conselho-de-classe — protótipo web.
 
 <div align="center">
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HudsonSMadeira/HudsonSMadeira/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HudsonSMadeira/HudsonSMadeira/output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/HudsonSMadeira/HudsonSMadeira/output/pacman-contribution-graph.svg" alt="Pac-Man a percorrer o gráfico de contribuições do GitHub" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HudsonSMadeira/HudsonSMadeira/main/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HudsonSMadeira/HudsonSMadeira/main/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/HudsonSMadeira/HudsonSMadeira/main/output/pacman-contribution-graph.svg" alt="Pac-Man a percorrer o gráfico de contribuições do GitHub" width="100%">
   </picture>
 </div>
 
