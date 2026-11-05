@@ -6,24 +6,13 @@ Analista e Desenvolvedor de Sistemas · Full Stack Web Developer
 
 Python · Django · APIs REST · React · TypeScript · HTML · CSS
 
-📍 Floriano, Piauí, Brasil · 🎓 Análise e Desenvolvimento de Sistemas — IFPI
-
-
-
-LinkedIn · 
-
-GitHub · 
-
-Repositórios
+📍Piauí, Brasil · 🎓 Análise e Desenvolvimento de Sistemas — IFPI
 
 </div>
 
-
-
-
 👨‍💻 Sobre mim
 
-Sou Analista e Desenvolvedor de Sistemas, formado em Tecnologia em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Piauí (IFPI), Campus Floriano. Tenho interesse no desenvolvimento de aplicações web, tanto no backend — com Python, Django e APIs RESTful — como na criação de interfaces com React.
+Sou Analista e Desenvolvedor de Sistemas, formado em Tecnologia em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Piauí (IFPI), Campus Floriano. 
 
 Gosto de transformar necessidades em soluções digitais claras e funcionais, aprender novas tecnologias e evoluir através de projetos práticos.
 
@@ -43,12 +32,12 @@ Versionamento: Git e GitHub.
 •
 
 
-AppGestaoDemandas — projeto de gestão de demandas.
+ControlBox.
 
 •
 
 
-TrabalhoFinal-BotDev — projeto final em Python.
+BotDev — projeto final em Python.
 
 •
 
